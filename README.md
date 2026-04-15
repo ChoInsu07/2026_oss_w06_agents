@@ -113,6 +113,11 @@ Final Investment Recommendation for AAPL
 ```
 
 ---
+(./images/screenshot1.png)
+(./images/screenshot2.png)
+(./images/screenshot3.png)
+
+---
 
 ## 코드
 
@@ -132,6 +137,8 @@ mid_project/
 ### 실행 방법
 ```bash
 # 가상환경 활성화
+export GROQ_API_KEY="your-GROQ-API"
+
 source venv/bin/activate
 
 # 실행
