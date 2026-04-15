@@ -113,9 +113,17 @@ Final Investment Recommendation for AAPL
 ```
 
 ---
-(./images/screenshot1.png)
-(./images/screenshot2.png)
-(./images/screenshot3.png)
+
+## 실행 스크린샷
+
+### 1. 사용자 입력
+![screenshot1](images/screenshot1.png)
+
+### 2. 에이전트 실행 과정
+![screenshot2](images/screenshot2.png)
+
+### 3. 최종 결과
+![screenshot3](images/screenshot3.png)
 
 ---
 
